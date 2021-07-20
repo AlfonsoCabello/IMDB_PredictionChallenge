@@ -61,5 +61,5 @@ Siddharth Singhal<br>
 
 Anukriti Yadav<br>
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/anukriti21)
-anukriti21
+
 <br> 
