@@ -50,6 +50,9 @@ So, the factors that account for the movie with a high rating, which the produce
 ## Contributors
 This project was a team effort where I got to work with these awesome people:
 
+Alfonso Cabello<br> 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/AlfonsoCabello)
+
 Tarash Jain<br> 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/tarashjain)
 
