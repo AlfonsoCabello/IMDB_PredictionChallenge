@@ -46,3 +46,20 @@ Some other factors tend to affect the IMDb score of the movie. Please note that 
 So, the factors that account for the movie with a high rating, which the producers anddirectors should also keep in mind while making a movie. Just to summarize, the factorsthat affect the scores in a positive fashion and negative fashion, respectively.
   - Positive Factors - Comedy Movie, Drama Movie, Documentary Movie, Animated Movie,Movie Produced in UK.
   - Negative Factors – Action Movie, Main Actor as Female, Horror Movie, Family Movie, MovieDirected by Jason Friedberg, Movie Produced by Dimension Films, Drama-Action Movie.
+
+## Contributors
+This project was a team effort where I got to work with these awesome people:
+
+Tarash Jain<br> 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/tarashjain)
+
+Sebastian Salazar<br>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/sebsalazar94)
+
+Siddharth Singhal<br>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/siddharthsinghal01)
+
+Anukriti Yadav<br>
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github&logoColor=white&color=0D76A8)](https://github.com/anukriti21)
+anukriti21
+<br> 
